@@ -25,3 +25,6 @@ npm install
 ```
 npm start
 ```
+
+## Para realizar pruebas del Backend  hacerlo desde aqui.
+https://documenter.getpostman.com/view/6200903/Szf82npd
